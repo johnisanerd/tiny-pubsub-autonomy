@@ -18,16 +18,12 @@ Then you move the drone. Distance is speed times time, and you convert that to c
 
 A fixed random seed makes every run identical, which keeps it testable.
 
-# Setup
+## Setup
 
 Clang - compiler
     Apple clang version 15.0.0 (clang-1500.0.40.1)
 Cmake -
     I installed with homebrew: `brew install cmake`
-
-# Build
-
-`cmake --build build`
 
 ## Build and run
 
