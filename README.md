@@ -39,7 +39,7 @@ Requires CMake and a C++17 compiler (Clang or GCC).
 
 ## Roadmap
 
-[x] Unit tests with GoogleTest
-[ ] Smooth turns by randomizing turn rate instead of heading
-[ ] Publish-subscribe bus: a sensor plugin publishes GPS, a planner plugin subscribes
-[ ]Simulated GPS jamming and dead reckoning
+- [x] Unit tests with GoogleTest
+- [ ] Smooth turns by randomizing turn rate instead of heading
+- [ ] Publish-subscribe bus: a sensor plugin publishes GPS, a planner plugin subscribes
+- [ ]Simulated GPS jamming and dead reckoning
